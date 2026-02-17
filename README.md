@@ -117,25 +117,6 @@ Looking at the most common words in each class reveals some interesting differen
 - matplotlib, seaborn
 - WordCloud
 
----
-
-## 📁 Repository Structure
-
-```
-├── data/
-│   └── reddit_financial_sentiment.csv   # Custom dataset
-├── notebooks/
-│   └── sentiment_analysis.ipynb         # Main analysis notebook
-├── figures/
-│   ├── model_comparison_final.png
-│   ├── confusion_matrices.png
-│   ├── roc_auc_curves.png
-│   ├── sentiment_distribution.png
-│   └── wordclouds.png
-└── README.md
-```
-
----
 
 ## 📜 License
 
